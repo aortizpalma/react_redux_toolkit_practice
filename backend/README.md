@@ -1,10 +1,15 @@
-# React Shop - FRONTEND
+# React Shop - BACKEND
 
-Simple online shop using React and Redux
+Simple online shop using React and Redux,
 
 ## Technologies used
 
 Built with:
+
+- Node.js
+- Express
+- Nodemon
+- CORS
 
 - React
 - Redux
